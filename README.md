@@ -20,5 +20,5 @@ Menú digital de pizza, util para cualquier restaurante.
 Desarrollar un menú y poner en practica lo aprendido en HTML y CSS.
 
 ## 4. 🌺Link a demo🌺
-Accede a mi proyecto terminado, sin duda no te arrepentirás: [Menú](https://roaring-clafoutis-9ec79b.netlify.app)
+Accede a mi proyecto terminado, sin duda no te arrepentirás: [Menú](https://papaya-alpaca-e297e1.netlify.app)
 
